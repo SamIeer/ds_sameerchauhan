@@ -1,5 +1,5 @@
 ```
- <h1>Web3 Trader Sentiment Analysis — Fear vs Greed Prediction</h1>
+ Web3 Trader Sentiment Analysis — Fear vs Greed Prediction
 
 This project explores the relationship between trader behavior and market sentiment using the Bitcoin Fear & Greed Index and real trading data. 
 The goal was to analyze how profit, trade volume, and activity differ during Fear and Greed periods,
