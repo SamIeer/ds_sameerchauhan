@@ -14,3 +14,23 @@ This project demonstrates a complete data science workflow — from dataset prep
 The final analysis provides clear insights into trader psychology, showing that market optimism correlates with profitability and trade confidence,
 while fear is marked by cautious, low-return behavior.
 ```
+```
+ds_sameerchauhan/
+├── csv_files/
+│   ├── fear_greed_index.csv
+│   ├── historical_data.csv
+│   ├── merged_trader_sentiment.csv
+│   ├── sample_merged.csv
+│   └── sentiment_summary.csv
+├── outputs/
+│   ├── avg_profit_by_sentiment.png
+│   ├── daily_avg_profit_trend.png
+│   ├── fear_greed_decision_boundaries.png
+│   ├── total_volume_by_sentiment.png
+│   ├── trade_side_by_sentiment.png
+│   └── trade_size_by_sentiment.png
+├── Notebook1.ipynb
+├── ds_report.pdf
+└── README.md
+```
+
